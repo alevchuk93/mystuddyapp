@@ -23,7 +23,7 @@ export class AppComponent {
  
    }
 onSelectVideo(video){
-    //console.log(JSON.stringify(video))9820983029eeeee;
+    //console.log(JSON.stringify(video))9820983029eeeeewedwedwed;
     this.selectedVideo = video;
 
 }
